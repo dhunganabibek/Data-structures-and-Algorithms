@@ -1,0 +1,21 @@
+# 1 "main.cpp"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "main.cpp"
+# 1 "linkedList.h" 1
+
+
+
+my name is Bibek dhungana
+
+
+int a = 10;
+# 2 "main.cpp" 2
+
+
+int main() {
+
+
+
+    return 0;
+}
